@@ -25,6 +25,7 @@ This repository will host multiple code bases to tackle enhancing the experience
 * Focus is on capturing and normalizing the data for further use
 * Data can be captured in a multimodal format - audio, video, and other IoTs. 
 * Audio can be input in various languages. 
+* Allow BCBA and RBT to input markers, triggers, and progress indicators for the copilot to pay attention to
 ### Copilot creation
 * Focus is on retrieving data using a copilot
 * The copilot will assist through various interfaces - summary reports, chatbots, images & screenshots, video snippets, etc.
