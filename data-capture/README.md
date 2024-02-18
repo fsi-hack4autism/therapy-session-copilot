@@ -6,11 +6,11 @@ This section is part of the repository Therapy Session Copilot (https://github.c
 * Audio can be input in various languages. 
 * Allow BCBA and RBT to input markers, triggers, and progress indicators for the copilot to pay attention to
 
-### Sample Scenarios
+## Sample Scenarios
 * Multi-modal data capture
   * A smartphone app used by RBT - similar to what some RBTs have today
   * Video camera to record the session - this will focus on capturing facial expressions, body language, fluency of tasks, etc.
   * Microphone - this will focus on capturing voice, tone, etc. to determine emotions
 
-### Sample Ideas
+## Sample Ideas
 [Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
