@@ -26,6 +26,10 @@ This repository will host multiple code bases to tackle enhancing the experience
 * Data can be captured in a multimodal format - audio, video, and other IoTs. 
 * Audio can be input in various languages. 
 * Allow BCBA and RBT to input markers, triggers, and progress indicators for the copilot to pay attention to
+Note: Create all projects in a folder under https://github.com/fsi-hack4autism/therapy-session-copilot/tree/main/data-capture
 ### Copilot creation
 * Focus is on retrieving data using a copilot
-* The copilot will assist through various interfaces - summary reports, chatbots, images & screenshots, video snippets, etc.
+  * This module will specifically look for pre-designed triggers - emotional (frustration, accomplishment, etc.), or physical (completion of task, eye contact, etc.)
+  * The objective is to track progress along specific markers
+  * The copilot will assist through various interfaces - summary reports, chatbots, images & screenshots, video snippets, etc.
+Note: Create all projects in a folder under https://github.com/fsi-hack4autism/therapy-session-copilot/tree/main/copilot
