@@ -20,7 +20,7 @@ An RBT (Registered Behavioral Technician) implements a session designed by the B
 [Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
 
 ## Code repository setup
-This repository will host multiple code bases to tackle enhancing the experience and productivity of a therapy session for an RBT (Registered Behavioral Technician), the patient, as well as the BCBA (Board Certified Behavorial Analyst) who will review the session. Largely, the repository will contain projects in the following areas:
+This repository will host multiple code bases to tackle enhancing the experience and productivity of a therapy session for an RBT (Registered Behavioral Technician), the patient, as well as the BCBA (Board Certified Behavioral Analyst) who will review the session. Largely, the repository will contain projects in the following areas:
 ### Data capturing
 * Focus is on capturing and normalizing the data for further use
 * Data can be captured in a multimodal format - audio, video, and other IoTs. 
