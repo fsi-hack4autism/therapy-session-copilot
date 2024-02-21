@@ -16,8 +16,12 @@ An RBT (Registered Behavioral Technician) implements a session designed by the B
   * Summarize and generate notes - free form based on observations across all modes
   * Summarize progress on specific markers
 
-### Sample Ideas
-[Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
+### Reference Links
+* [Project Florence -Vision Studio for Video/Image Analysis](https://portal.vision.cognitive.azure.com/gallery/featured)
+* https://www.youtube.com/watch?v=Qes7p5w8Tz8&t=6s
+
+### Architecture
+![Therapy Session Architecture](therapy-session-arch.PNG)
 
 ## Code repository setup
 This repository will host multiple code bases to tackle enhancing the experience and productivity of a therapy session for an RBT (Registered Behavioral Technician), the patient, as well as the BCBA (Board Certified Behavioral Analyst) who will review the session. Largely, the repository will contain projects in the following areas:
