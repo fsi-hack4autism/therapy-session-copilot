@@ -8,3 +8,4 @@ Presentation findings
  - Vision Studio continuously added duplicate timestamps to all videos tested
  - Playground reports extended/continous actions (e.g holding head for 5 seconds) as repeated actions (e.g The person touches their head at the following timestamps: 00:00:31, 00:00:33, and 00:00:35)
  - Playground responds with an accurate summary of the emotional and physical actions captured in the input. This would be essential for post-session summarizations
+ - Results are better when more details are entered in the system messages
