@@ -6,3 +6,4 @@ Presentation findings
  - Vision Studio identified 5/60 correct instances of requested behavior (video tested: 20150217_165854.mp4)
  - Playground didn't load videos after 25+ min (video tested: 20230613_155442.mp4)
  - Vision Studio continuously added duplicate timestamps to all videos tested
+ - Playground reports extended/continous actions (e.g holding head for 5 seconds) as repeated actions (e.g The person touches their head at the following timestamps: 00:00:31, 00:00:33, and 00:00:35)
