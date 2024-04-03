@@ -3,4 +3,5 @@ Presentation findings
  - Cannot analyze videos over 100MB
  - Compared results between Video indexer vs AI Studio with vision
  - Lot of hallucination on AI studio
- - identified 5/60 correct instances of requested behavior
+ - identified 5/60 correct instances of requested behavior (video tested: 20150217_165854.mp4)
+ - Playground didn't load videos after 25+ min (video tested: 20230613_155442.mp4)
