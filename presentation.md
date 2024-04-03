@@ -12,3 +12,4 @@ Presentation findings
  - AI Studio has access only to the transcript, so any audio will not be picked up (e.g., guitar strumming)
  - Even with the definition of strumming, Drew's body movement while playing the guitar, and hand movement cues that signal strumming, the AI Studio could not identify the duration in which Drew was playing the guitar.
  - We can only use a singular video at any time, to use multiple videos we must clear chat. If we don't clear chat the upload button grays out.
+ - Inputs (e.g videos) with the subject centered in the frame (videos not taken from an angle or side view) lead to more accurate results. Especially when watching out for physical or behavioural actions.  
