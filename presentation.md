@@ -1,4 +1,4 @@
-Presentation findings
+Azure AI findings
  - Quality of video needs to be improved
  - Cannot analyze videos over 100MB
  - Compared results between Video indexer vs AI Studio with vision
