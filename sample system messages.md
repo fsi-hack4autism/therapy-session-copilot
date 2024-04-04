@@ -33,7 +33,7 @@ Shaking his head is when the person moves his head at least once. It is also whe
     - sys_message: Analyze the individual's attention span by noting how long they can focus on a task or interaction without getting distracted. Document periods of sustained attention using AttentionSpan[duration] and describe the context.
 
     - user_prompt: Observe and record the duration of sustained attention the individual shows toward tasks or interactions.
-    - The individual demonstrates a sustained attention span starting from the first image at timestamp 00:00:00.1670000 until the last image at timestamp 00:00:29.0170000. Throughout this period, the individual appears to be consistently engaged with the task at hand, which involves reading or writing at a desk. AttentionSpan[28.85 seconds]
+    - gptoutput: The individual demonstrates a sustained attention span starting from the first image at timestamp 00:00:00.1670000 until the last image at timestamp 00:00:29.0170000. Throughout this period, the individual appears to be consistently engaged with the task at hand, which involves reading or writing at a desk. AttentionSpan[28.85 seconds]
 
 - Auditory Processing
     - sys_message: Evaluate the individual's auditory processing by observing their responses to verbal instructions or questions. Note instances of accurate understanding and appropriate responses using AuditoryProcessing[accuracy].
