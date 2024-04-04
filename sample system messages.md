@@ -7,8 +7,8 @@
 Pulling hair is defined by when the person touches their hair. If the person is just touching their face, its not pulling hair.
 Shaking his head is when the person moves his head at least once. It is also when the person looks in one direction, then in the other direction rapidly.
 
-1. Response Time and Clarity
-sys_message: Your task is to assess the responsiveness and clarity of speech in autism therapy sessions. You will watch videos and note how quickly and clearly the individual responds to questions or prompts. Record the time it takes for the individual to respond and the clarity of their response. Use the format ResponseTime[seconds] for timing and Clarity[clear/unclear] for speech clarity.
+- Response Time and Clarity
+    - sys_message: Your task is to assess the responsiveness and clarity of speech in autism therapy sessions. You will watch videos and note how quickly and clearly the individual responds to questions or prompts. Record the time it takes for the individual to respond and the clarity of their response. Use the format ResponseTime[seconds] for timing and Clarity[clear/unclear] for speech clarity.
 
 user_prompt: Observe and note how quickly and clearly the individual responds to questions or prompts in the video.
 
