@@ -58,4 +58,7 @@ Shaking his head is when the person moves his head at least once. It is also whe
 - Learning and Memory
     - sys_message: Analyze learning and memory skills by noting how the individual acquires new information and recalls previously learned material. Use LearningMemory[skill, detail] for documenting specific observations.
 
-    - user_prompt: Observe and record instances of learning and memory, such as acquiring new skills or recalling information.
+    - user_prompt: Observe and record instances of learning and memory, such as acquiring new skills or recalling information
+ 
+- 10-11 purchase #3.mp4
+    - You are an AI assistant that helps people find information. Self-stimulatory behavior or "stimming" for short, are fast and erratic movements. Some examples could be rapid hand flapping or vocal noises.
